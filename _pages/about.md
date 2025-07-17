@@ -13,4 +13,4 @@ In addition, I worked as a short-term **Research Assistant** at **City Universit
 
 My research interests include **reinforcement learning**, **chronic disease management**, and **simulation-based optimization**, with a focus on data-driven decision-making in healthcare and operations management.
 
-Feel free to reach me via email: **ling112358@gmail.com**
+Feel free to reach me via email: [**ling112358@gmail.com**](ling112358@gmail.com)
