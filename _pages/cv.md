@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Ph.D. (Prospective)** in *Management Science and Engineering*, Harbin Institute of Technology (HIT), starting **September 2025**
+* **B.Sc.** in *Management Sciences in Big Data Management and Application*, Harbin Institute of Technology (HIT), advised by [Prof. Guangxin Jiang](https://homepage.hit.edu.cn/jiangguangxin)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Experience
+* **Apr. 2025 – Aug. 2025**, Research Assistant, *City University of Hong Kong*  
+  Advised by [Prof. Siyang Gao](https://www.cityu.edu.hk/stfprofile/siyangao.htm) and [Prof. Shuang Qiu](https://shq-ml.github.io/#publication)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Industry Experience
+* **Apr. 2025 – Aug. 2025**, Data Analyst Intern, *Ping An Health Technology Company*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+* Reinforcement Learning, Simulation Optimization, Chronic Disease Management
+* Python, SQL, Tableau, Jupyter, Git
+* LaTeX, Markdown, GitHub Pages
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Contact
+* Email: ling112358@gmail.com  
+* GitHub: [ling112211](https://github.com/ling112211)  
+* Google Scholar: [My Profile](https://scholar.google.com/citations?user=CLTKwt4AAAAJ&hl=zh-CN)
